@@ -1,0 +1,12 @@
+.button{
+	font:bold 1em Arial,sans-serif;
+	margin:1em;
+	cursor: pointer;
+}
+
+.spoiler{
+	font:3em Arial,sans-serif;
+	background-color:#ddd;
+	overflow: hidden;
+	height: 0;
+}
